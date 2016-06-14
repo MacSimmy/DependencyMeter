@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root isBackward="false">
+  <file path="$PROJECT_DIR$/.gitignore" />
+  <file path="$PROJECT_DIR$/src/base/Main.java">
+    <dependency path="$PROJECT_DIR$/src/puzzles/GenUtil.java" />
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/com/sun/org/apache/xerces/internal/impl/dv/xs/BooleanDV.java" />
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/String.java" />
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/System.java" />
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/Integer.java" />
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/io/PrintStream.java" />
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/util/ArrayList.java" />
+    <dependency path="$PROJECT_DIR$/src/puzzles/ArrayUtil.java" />
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/com/sun/org/apache/xpath/internal/operations/Bool.java" />
+  </file>
+  <file path="$PROJECT_DIR$/src/doubts/AbstractTest.java">
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/String.java" />
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/Object.java" />
+  </file>
+  <file path="$PROJECT_DIR$/src/doubts/CompBleVsCompTor.java">
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/String.java" />
+  </file>
+  <file path="$PROJECT_DIR$/src/doubts/Employee.java">
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/Comparable.java" />
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/String.java" />
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/Override.java" />
+  </file>
+  <file path="$PROJECT_DIR$/src/generics/DemoInterface.java" />
+  <file path="$PROJECT_DIR$/src/generics/GenericArrayPrint.java">
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/Character.java" />
+    <dependency path="$PROJECT_DIR$/src/generics/DemoInterface.java" />
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/Double.java" />
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/String.java" />
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/System.java" />
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/Integer.java" />
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/io/PrintStream.java" />
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/util/List.java" />
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/Override.java" />
+  </file>
+  <file path="$PROJECT_DIR$/src/generics/GenericClass.java">
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/Double.java" />
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/System.java" />
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/String.java" />
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/Integer.java" />
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/io/PrintStream.java" />
+  </file>
+  <file path="$PROJECT_DIR$/src/generics/MaximumGenerics.java">
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/Comparable.java" />
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/util/Comparator.java" />
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/String.java" />
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/System.java" />
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/io/PrintStream.java" />
+  </file>
+  <file path="$PROJECT_DIR$/src/generics/NumberCounter.java">
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/Number.java" />
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/util/List.java" />
+  </file>
+  <file path="$PROJECT_DIR$/src/generics/Test.java">
+    <dependency path="$PROJECT_DIR$/src/puzzles/GenUtil.java" />
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/Double.java" />
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/String.java" />
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/System.java" />
+    <dependency path="$PROJECT_DIR$/src/generics/NumberCounter.java" />
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/Integer.java" />
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/io/PrintStream.java" />
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/util/ArrayList.java" />
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/util/List.java" />
+  </file>
+  <file path="$PROJECT_DIR$/src/puzzles/ArrayUtil.java" />
+  <file path="$PROJECT_DIR$/src/puzzles/GenUtil.java">
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/Character.java" />
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/util/Comparator.java" />
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/String.java" />
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/System.java" />
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/Integer.java" />
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/io/PrintStream.java" />
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/util/ArrayList.java" />
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/Math.java" />
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/util/List.java" />
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/util/Arrays.java" />
+    <dependency path="C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/Override.java" />
+  </file>
+</root>
+
